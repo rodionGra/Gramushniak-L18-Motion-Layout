@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_main_toolbar_btns_width">36dp</dimen>
+    <dimen name="activity_main_toolbar_view_endscene_height">250dp</dimen>
+    <dimen name="activity_main_toolbar_end_scene_btns_margitTop">40dp</dimen>
+</resources>
